@@ -1,0 +1,81 @@
+/*-------------------------
+    CSS STYLESHEET
+-------------------------*/
+
+h1 {
+
+    color: #000011;
+    font-family: Georgia, Serif;
+
+}
+/*
+#container {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+    width: 500px;
+}*/
+
+#head {
+    postion: absolute;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #330000;
+    height:365px;
+    text-align: center;
+    border-radius: 15px;
+}
+#title {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    height: 50px;
+    width: 350px;
+    line-height: 30px;
+    background-image: url("../images/beaut.jpg");
+    text-align: center;
+}
+#swirly {
+    position: relative; top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 300px;
+    background-color: #111111;
+    border: solid 1px #990055;
+    border-radius: 15px;
+}
+#bottom {
+
+    position: relative; top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 350px;
+    background-image: url("../images/beaut.jpg");
+    border-radius: 1px;
+}
+
+#body {
+    postion: absolute; top: 500px;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #313040;
+    height:700px;
+    text-align: center;
+    border-radius: 1px;
+}
+
+/*
+#arms {
+    position: relative; top: 360px; left:70%;
+    width: 150px;
+    height: 300px;
+    border: solid; color: darkred;
+}
+*/
+
